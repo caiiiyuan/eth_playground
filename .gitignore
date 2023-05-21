@@ -132,3 +132,4 @@ dist
 # Hardhat
 artifacts/
 cache/
+.config.js
